@@ -25,9 +25,9 @@ The connector exposes the following operations:
 [%header%autowidth]
 |===
 |Application/Service |Version
-|Mule Runtime	     |  4.4 or later
+|Mule Runtime	     |  4.3 or later
 |Ironclad API         |  v1
-|Java	             |  1.8 and later
+|Java	             |  8, 11 and 17
 |===
 
 This document assumes that you are familiar with Mule, Anypoint Connectors, Anypoint Studio, Mule concepts, elements in a Mule flow, and Global Elements.

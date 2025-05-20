@@ -5,14 +5,14 @@ The Anypoint Ironclad Connector provides the capability to connect a Mule app to
 
 == Ironclad Connector 1.0.0
 
-Ironclad Connector is available on Mule 4.4 or later.
+Ironclad Connector is available on Mule 4.3 or later.
 
 
 [%header%autowidth]
 |===
 |Application/Service |Version
-|Mule Runtime	     |  4.4 or later
-|Java	             |  1.8 and later
+|Mule Runtime	     |  4.3 or later
+|Java	             |  8, 11 and 17
 |===
 
 
